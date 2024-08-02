@@ -1,0 +1,56 @@
+{
+    "events_categories": [
+        {
+            "id": "Lagos",
+            "title": "Events in Lagos",
+            "description": "Welcome to Lagos Nigeria the Economic Capital of
+            Nigeria the Entertainment Capital of Nigeria the City that does'nt 
+            Sleep The heart of Africa the mos populated City in Africa",
+            "image": ""
+        },
+        {
+            "id": "Abuja",
+            "title": "Events in Abuja",
+            "description": "Welcome to Abuja Nigeria the Capital City of
+            Nigeria the Most Beautiful city in  Nigeria the City that does'nt 
+            Sleep The heart of Africa the mos populated City in Africa",
+            "image": ""
+        },
+        {
+            "id": "Taraba",
+            "title": "Events in Taraba",
+            "description": "Welcome to Taraba the most coolest City of
+            Nigeria the Most Beautiful city in the Northen Part of Nigeria the City that does'nt 
+            Sleep The heart of Africa the most populated City in Africa",
+            "image": ""
+        }
+
+    ],
+    "allEvents": [
+            {
+            "id": "Lagos-City-of Excellence",
+            "title": "Events in Lagos",
+            "city": "Lagos",
+            "description": "The most Populated City in Africa",
+            "image": "",
+            "email": []
+        },
+            {
+            "id": "Abuja-Capital-City",
+            "title": "Events in Abuja",
+            "city": "Abuja",
+            "description": "The most Beautiful City in West Africa",
+            "image": "",
+            "email": []
+        },
+            {
+            "id": "Taraba-Natures-gift-to-the-Nation",
+            "title": "Events in Taraba",
+            "city": "Taraba",
+            "description": "Taraba the most Cooliest City in Nigeria",
+            "image": "",
+            "email": [] 
+        }
+        
+    ]
+}
